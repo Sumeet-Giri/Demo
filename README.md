@@ -1,2 +1,4 @@
 # Demo
-This is my first repository&lt;br>
+This is my first repository
+<br>
+Author - Sumeet
